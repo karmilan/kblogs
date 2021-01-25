@@ -34,3 +34,13 @@
     color: red;
     margin-left: 350px;
 }
+
+.home {
+    width: 600px;
+    align-items: center;
+    margin: 15px auto;
+}
+
+button {
+    margin-right: 10px;
+}
